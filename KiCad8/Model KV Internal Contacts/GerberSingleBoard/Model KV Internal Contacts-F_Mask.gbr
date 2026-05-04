@@ -1,0 +1,33 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.7*%
+%TF.CreationDate,2026-05-03T23:30:29-04:00*%
+%TF.ProjectId,KVSAR RAK Internal Contacts,4b565341-5220-4524-914b-20496e746572,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Top*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.7) date 2026-05-03 23:30:29*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,1.700000X1.700000*%
+%ADD11C,3.000000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J4*%
+X152400000Y-93980000D03*
+%TD*%
+D11*
+%TO.C,J2*%
+X147320000Y-93980000D03*
+%TD*%
+D10*
+%TO.C,J3*%
+X152400000Y-88900000D03*
+%TD*%
+D11*
+%TO.C,J1*%
+X147320000Y-88900000D03*
+%TD*%
+M02*
